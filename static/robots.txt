@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://EdenFall.photos/sitemap.xml
